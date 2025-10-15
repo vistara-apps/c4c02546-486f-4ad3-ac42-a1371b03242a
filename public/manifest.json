@@ -1,0 +1,14 @@
+{
+  "name": "Career Catalyst",
+  "description": "Career Catalyst is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://c4c02546-486f-4ad3-ac42-a1371b03242a.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Career Catalyst",
+      "description": "Career Catalyst is a Base Mini App built with Zara.",
+      "url": "https://c4c02546-486f-4ad3-ac42-a1371b03242a.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

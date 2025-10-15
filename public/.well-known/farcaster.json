@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Career Catalyst",
+    "subtitle": "Built with Zara",
+    "description": "Career Catalyst is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://app-1b03242a-bpmq.vercel.app",
+    "splashImageUrl": "https://app-1b03242a-bpmq.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://app-1b03242a-bpmq.vercel.app/image.png",
+    "tagline": "Career Catalyst",
+    "screenshotUrls": [
+      "https://app-1b03242a-bpmq.vercel.app/screenshot.png",
+      "https://app-1b03242a-bpmq.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://app-1b03242a-bpmq.vercel.app/api/webhook"
+  }
+}
