@@ -1,0 +1,16 @@
+{
+  "frame": {
+    "name": "Career Catalyst",
+    "homeUrl": "https://careercatalyst.app/home",
+    "iconUrl": "https://careercatalyst.app/icon.png",
+    "version": "vNext",
+    "webhookUrl": "https://api.careercatalyst.app/farcaster-webhook",
+    "splashImageUrl": "https://careercatalyst.app/splash.png",
+    "splashBackgroundColor": "#0A1929"
+  },
+  "accountAssociation": {
+    "header": "Connect your Farcaster identity to Career Catalyst for resume optimization and professional badges.",
+    "payload": "payload-data",
+    "signature": "signature-data"
+  }
+}
